@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private ConnectedThread connectedThread;
     private Handler handler;
 
-    private TextInputLayout inputTxtLayout;
+    private TextInputEditText inputTxtLayout;
     private TextInputEditText inputTxt;
     private TextView consoleOut;
     private Button applyButton;
